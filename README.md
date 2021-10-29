@@ -3,7 +3,8 @@
 > **_NOTE:_** 
 > - the context it means this {} inside the function we pass things from him to html page
 > - use comments if you have faced a problem 
-> - between functions tow breaks
+> - between functions two breaks
+> - between models four spaces
 > - we did not link the css file 
 ### 1- open cmd and start django project (airline)
 ```cmd
