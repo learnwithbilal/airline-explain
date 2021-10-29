@@ -343,7 +343,7 @@ empty mean if there are no passengers
   
 ### 26- Add simple url to take us from flight to all flights page
 #### go to flight.html file and add 
-  ```python 
+```python 
   <a href="{% url 'index' %}">All Flights</a>
 ```  
   
