@@ -41,7 +41,7 @@ layout.html # this file are base for other files
 flight.html  # we will show details about flight
 # we will use this files so do not worry 
 ```
-in layout file right html structure 
+in layout file write html structure 
 ```html
 <!DOCTYPE html>
 <html lang="en">
