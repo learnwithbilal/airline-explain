@@ -340,7 +340,7 @@ empty mean if there are no passengers
         # we do this for refresh the page and add the new passengers
    return render(request, "flights/flight.html", {})
   
-  
+```  
 ### 26- Add simple url to take us from flight to all flights page
 #### go to flight.html file and add 
 ```python 
